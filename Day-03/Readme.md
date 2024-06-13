@@ -7,7 +7,7 @@ Day 2 - Conditional Statements, Logical Operators, Code Blocks and Scope
 - https://replit.com/@AbisHussainHuss/day-03-03-exercise#README.md
 - https://replit.com/@AbisHussainHuss/day-03-04-exercise#README.md
 
-## Tip Calculator
+## Treasure Island Game
 
 ![treasure_island](treasure_island.gif)
 
