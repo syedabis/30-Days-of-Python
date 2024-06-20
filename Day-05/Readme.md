@@ -8,7 +8,7 @@ Day 5 - For Loops, Range and Code Blocks
 
 ## Password Generator
 
-![Rock_Paper_Scissor](rock_paper_scissors.gif)
+![Rock_Paper_Scissor](password_generator.gif)
 
 https://replit.com/@AbisHussainHuss/password-generator-start-2#main.py
   
