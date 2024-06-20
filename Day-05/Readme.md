@@ -14,7 +14,7 @@ https://replit.com/@AbisHussainHuss/password-generator-start-2#main.py
   
 ## Google Meet Link (8:00 PM 20th June)
 
-https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZGJkZDYxYjQtMWJiZC00ZDI2LTk1MjgtN2Q1YjAwOGQ2NzFk%40thread.v2/0?context=%7b%22Tid%22%3a%22fc787a9a-4e5a-498a-be38-31124baf48ec%22%2c%22Oid%22%3a%2275d23dbc-0ee9-4a01-9a5f-628ed4809d0d%22%7d
+https://meet.google.com/xuy-rxeb-gyc
 
 ## Canva Slides
 
