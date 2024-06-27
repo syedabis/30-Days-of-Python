@@ -7,7 +7,7 @@ Day 7 - Hangman Project
 - https://replit.com/@AbisHussainHuss/Day-07-Hangman-3-Start#main.py
 - https://replit.com/@AbisHussainHuss/Day-07-Hangman-4-Start#main.py
 
-## Password Generator
+## Hangman Game
 
 ![Rock_Paper_Scissor](hangman.gif)
   
